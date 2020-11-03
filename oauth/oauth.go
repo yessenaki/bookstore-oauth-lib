@@ -8,7 +8,7 @@ import (
 	"strings"
 
 	"github.com/go-resty/resty/v2"
-	"github.com/yesseneon/bookstore_oauth_lib/oauth/errors"
+	"github.com/yesseneon/bookstore_utils/errors"
 )
 
 const (
